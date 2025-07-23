@@ -1,0 +1,49 @@
+{
+  "anecdotes": [
+    {
+      "id": "1",
+      "content": "the app state is in redux store",
+      "votes": 5
+    },
+    {
+      "id": "2",
+      "content": "state changes are made with actions",
+      "votes": 7
+    },
+    {
+      "id": "0d97",
+      "content": "wait is usually worth it",
+      "votes": 6
+    },
+    {
+      "id": "91a8",
+      "content": "coding is hard",
+      "votes": 0
+    },
+    {
+      "id": "07cd",
+      "content": "web-sovelluskehitys rules",
+      "votes": 2
+    },
+    {
+      "id": "735a",
+      "content": "asynchronous operations are a bit hard to understand",
+      "votes": 2
+    },
+    {
+      "id": "0253",
+      "content": "I sync and I wait",
+      "votes": 0
+    },
+    {
+      "id": "be0c",
+      "content": "Summer is hot",
+      "votes": 10
+    },
+    {
+      "id": "f51a",
+      "content": "figuring anecdotes for testing is exhausting",
+      "votes": 0
+    }
+  ]
+}
